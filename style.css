@@ -1,0 +1,65 @@
+body{
+text-align:center;
+padding-top: 800px;
+background-color:black;
+}
+.prohell{
+width:20%;
+border-radius: 50%;
+margin-bottom:50px;
+}
+#hell{
+position:absolute;
+left:0;
+right:0;
+top:0;
+bottom:0;
+width:100%;
+height:100%;
+background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+z-index:9;
+}
+.noobhell{
+position:fixed;
+right:30px;
+top:10px;
+list-style:none;
+cursor: pointer;
+z-index:10;
+color:red;
+font-family: 'Zen Dots', cursive;
+}
+.links{
+float:center;
+padding:5px;
+font-size:30px;
+color:red;
+}
+.links:hover{
+background-color: cyan;
+}
+h1{
+font-size:40px;
+font-weight:300;
+color:white;
+font-family: 'Zen Dots', cursive;
+}
+html{
+scroll-behavior:smooth;
+}
+.dbdb{
+background-color:black;
+color:red;
+}
+head{
+
+}
+#Contact iframe{
+width:100%;
+}
+.hackerhell h3{
+display:inline;
+}
+.hackerhell a{
+text-decoration: none;
+}
